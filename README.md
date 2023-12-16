@@ -17,7 +17,7 @@ Transform your Raspberry Pi into a quantum leap of portability with QuantumPi-Po
 ### Hardware Setup
 
 1. Install the latest Raspbian OS on your Raspberry Pi 4 Model B.
-2. Connect the 3.5" touch display to the Raspberry Pi following our [setup guide](link-to-setup-guide).
+2. Connect the 3.5" touch display to the Raspberry Pi following our [setup guide](https://github.com/niladrigithub/quantumpi-portablehub/issues/2).
 
 ### Assembly
 
