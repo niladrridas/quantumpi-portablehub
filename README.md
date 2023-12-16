@@ -46,7 +46,7 @@ We value your thoughts:
 
 - Share your feedback
 - Report issues
-- Propose new features in the [Issues](link-to-issues) section
+- Propose new features in the [Issues](https://github.com/niladrigithub/quantumpi-portablehub/issues/1) section
 
 ## Let's Quantum Leap Together!
 
