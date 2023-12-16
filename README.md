@@ -54,7 +54,7 @@ QuantumPi-PortableHub is not just a project; it's a journey into the next fronti
 
 ## License
 
-This project is licensed under [License type]. See the [LICENSE.md](link-to-license-file) file for details.
+This project is licensed under MIT. See the [LICENSE.md](link-to-license-file) file for details.
 
 ## Acknowledgments
 
